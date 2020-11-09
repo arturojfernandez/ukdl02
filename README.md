@@ -5,7 +5,7 @@ The goal of this exercise is to evaluate the familiarity with pandas in order to
 
 You have to build a transformation pipeline that will look as follows:
 
-**read features -> read normative -> join normative with features -> add a gender name based in in the scores of the normative -> calculate the standard deviation of the features into a new column -> save results ** 
+**read features -> read normative -> join normative with features -> add a gender name based in in the scores of the normative -> calculate the standard deviation of the features into a new column -> save results** 
 
 The duration of the exercise is 1.5h not being necessary to complete the exercise in this time but to explain the approach and the ideas to the reviewer in a pair programming exercise.
 
